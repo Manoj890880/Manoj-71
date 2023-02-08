@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Manoj</h1>
 <h3 align="center">With a passion for Java development</h3>
 
+<p>Proficient in Java SE and familiar with JavaEE technologies. Keen on learning new technologies and programming languages, and eager to apply these skills in a professional setting. Skilled in problem-solving and able to work well in a team environment. Passionate about technology and eager to make a positive impact through software development.</p>
+
 <img align="right" alt="coding" width="400px" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47vkgt7h9zc3dlpv6pxy6qx062eti6jpiiexs4nlij&rid=giphy.gif&ct=g"> 
 
 
